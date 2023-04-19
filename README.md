@@ -1,24 +1,28 @@
 # About-me
 
-cat("# Greetings, a pleasure to welcome you to my Hub👋 My name is Scorefield\n")
-cat("I am a Google Certified Data Science and Analytics, Business Education and Adminstation Graduate NCE AND BSC holder).\n")
-cat("What I do:\n")
-cat("\n")
-cat("- I play the role of collecting, preparing, cleaning, transforming, and analyzing data insights\n")
-cat("- I visualize data insights and data story.\n")
-cat("- I’m looking to collaborate with other data professionals to work on real world and make data driven decisions\n")
-cat("- I create a compelling presentation of business task through data\n")
-cat("- I interact with database to conduct analytics and science works of data.
-cat("\n")
-cat("## Tools Specialization\n")
-cat("\n")
-cat("- R, Rstudio\n")
-cat("- Microsoft Excel\n")
-cat("- SQL\n")
-cat("- Power Bi\n")
-cat("- Power Point\n")
-cat("\n")
-cat("Latest Blogs\n")
-cat("\n")
-cat("- How to become a digital freelancer\n")
-cat("- what is data\n")
+**Greetings, pleasure to welcome you to my Hub, My name is Scorefield.**
+
+**I am a Google Certified Data Science and Analytics, Business Education & Business Adminstation Graduate (NCE & BSC holder).**
+
+## What I do
+
++ I play the role of collecting, preparing, cleaning, transforming, and analyzing data insights
++ I visualize data insights and data story.
++ I manage and ensure data security.
++ I create a compelling presentation of business task through data.
++ I interact with database to conduct analytics and science works of data.
+
+## **Tools Specialization**
+
++ ✅R, Rstudio
++ ✅Microsoft Excel
++ ✅SQL
++ ✅Power Bi
++ ✅Power Point
++ 
+
+**📢 Why you should choose me:**
+
++ ✅ I'm Communicative-Oriented
++ ✅ I have Vast tech Experience 
++ ✅ I prioritize Project Satisfactory
